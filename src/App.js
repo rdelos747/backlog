@@ -159,7 +159,8 @@ const App = () => {
             consider.
             <br />
             <br />
-            Thats all this does for now. I might add more features in the future
+            The first 3 games are randomly picked as suggestions. The Thats all
+            this does for now. I might add more features in the future
             ¯\_(ツ)_/¯
           </TopText>
           <PlayGamesSection>
