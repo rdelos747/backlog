@@ -106,5 +106,47 @@ export default [
     platform: Platforms.SNES,
     started: false,
     replay: false
+  },
+  {
+    name: 'Hexen',
+    platform: Platforms.Saturn,
+    started: false,
+    replay: true
+  },
+  {
+    name: 'Max Payne',
+    platform: Platforms.Saturn,
+    started: false,
+    replay: true
+  },
+  {
+    name: 'Max Payne II',
+    platform: Platforms.PC,
+    started: false,
+    replay: false
+  },
+  {
+    name: 'Wilmonts Warehouse',
+    platform: Platforms.PC,
+    started: false,
+    replay: false
+  },
+  {
+    name: 'Half Life 2: Episode One',
+    platform: Platforms.PC,
+    started: false,
+    replay: true
+  },
+  {
+    name: 'Half Life 2: Episode Two',
+    platform: Platforms.PC,
+    started: false,
+    replay: true
+  },
+  {
+    name: 'Rez Infinite',
+    platform: Platforms.PC,
+    started: false,
+    replay: false
   }
 ];
